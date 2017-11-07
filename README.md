@@ -37,3 +37,11 @@ http://egg-born.org/zh-cn/docs/tutorial/
 	欢迎来到[剑雨无尘](./docs/detail01.md)
 	欢迎来到[剑雨无尘](./docs/detail02.md)
 	欢迎来到[剑雨无尘](./docs/detail03.md)
+	2参考式
+	我经常去的几个网站[Google][1]、[Leanote][2]
+	[Google][1]是一个不错的[网站][网站]
+	[网站][]
+	[1]:http://www.google.com "Google"
+	[2]:http://www.leanote.com
+	[网站]:https://github.com/chenxijywc/egg-first "egg-first"
+	
