@@ -44,4 +44,7 @@ http://egg-born.org/zh-cn/docs/tutorial/
 	[1]:http://www.google.com "Google"
 	[2]:http://www.leanote.com
 	[网站]:https://github.com/chenxijywc/egg-first "egg-first"
+	3自动链接
+	<http://www.baidu.com>
+	<address@example.com>
 	
