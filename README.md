@@ -30,3 +30,10 @@ http://egg-born.org/zh-cn/docs/tutorial/
 4. #### 四级标题
 5. ##### 五级标题
 6. ###### 六级标题
+
+超链接
+	1行内式
+	欢迎来到[剑雨无尘](https://www.baidu.com)
+	欢迎来到[剑雨无尘](./docs/detail01.md)
+	欢迎来到[剑雨无尘](./docs/detail02.md)
+	欢迎来到[剑雨无尘](./docs/detail03.md)
