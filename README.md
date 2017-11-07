@@ -15,7 +15,7 @@ http://egg-born.org/zh-cn/docs/tutorial/
 
 [点击跳转](#jump)
 
-
+	[TOC]
 ## 0. 斜体和粗体{#top}
 1. *斜体*
 2. **粗体**
@@ -130,6 +130,7 @@ Markdown
 > 2. 教程在哪？ - 小白<br/>
 
  ###插入图像
-![图片Alt](图片地址 “图片Title”)
+语法说明：![图片Alt](图片地址 “图片Title”)
 
 ![花朵](http://ww2.sinaimg.cn/large/56d258bdjw1eugeubg8ujj21kw16odn6.jpg "美丽花儿")
+### 内容目录
