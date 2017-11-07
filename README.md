@@ -180,3 +180,17 @@ cond(no)->sub->io
 ---
 
 ------
+
+### 代码
+	#include <stdio.h>
+    int main(void)
+    {
+        printf("Hello world\n");
+    }
+···
+#include <stdio.h>
+int main(void)
+{
+    printf("Hello world\n");
+}
+···
