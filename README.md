@@ -14,3 +14,8 @@ http://egg-born.org/zh-cn/docs/tutorial/
 
 
 [点击跳转](#jump)
+
+1. *斜体*
+2. **粗体**
+3. ***加粗斜体***
+4. ~~删除线~~
