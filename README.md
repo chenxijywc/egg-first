@@ -16,7 +16,7 @@ http://egg-born.org/zh-cn/docs/tutorial/
 [点击跳转](#jump)
 
 
-###斜体和粗体{#top}
+##斜体和粗体{#top}
 1. *斜体*
 2. **粗体**
 3. ***加粗斜体***
@@ -49,4 +49,4 @@ http://egg-born.org/zh-cn/docs/tutorial/
 	<address@example.com>
 	
 ###锚点
-	跳转到顶部[斜体](#top)
+	跳转到顶部[斜体和粗体](#top)
