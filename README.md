@@ -73,7 +73,7 @@ http://egg-born.org/zh-cn/docs/tutorial/
 
 3定义型列表
 
-Markdown	
-:    轻量级文本标记语言，可以转换成html，pdf等格式（左侧有一个可见的冒号和四个不可见的空格）
+	Markdown	
+	:    轻量级文本标记语言，可以转换成html，pdf等格式（左侧有一个可见的冒号和四个不可见的空格）
 Markdown
 :    轻量级文本标记语言，可以转换成html，pdf等格式（左侧有一个可见的冒号和四个不可见的空格）
