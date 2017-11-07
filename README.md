@@ -187,10 +187,10 @@ cond(no)->sub->io
     {
         printf("Hello world\n");
     }
-···
+```
 #include <stdio.h>
 int main(void)
 {
     printf("Hello world\n");
 }
-···
+```
