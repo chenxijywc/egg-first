@@ -148,7 +148,7 @@ $$\sum_{i=1}^n a_i=0$$
 $$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$
 $$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
 
-###流程图
+### 流程图
 
 flow
 st=>start: Start:>https://www.zybuluo.com
@@ -161,9 +161,22 @@ st->io->op->cond
 cond(yes)->e
 cond(no)->sub->io
 
-###表格
+### 表格
 |学号|姓名|分数|
 |-|-|-|
 |小明|男|75|
 |小红|女|79|
 |小陆|男|92|
+
+### 分隔线
+* * *
+
+***
+
+******
+
+- - -
+
+---
+
+------
