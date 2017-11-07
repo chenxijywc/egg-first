@@ -194,3 +194,22 @@ int main(void)
     printf("Hello world\n");
 }
 ```
+
+### HTML 原始码
+<div class="footer">
+   © 2004 Foo Corporation
+</div>
+
+<table>
+    <tr>
+        <th rowspan="2">值班人员</th>
+        <th>星期一</th>
+        <th>星期二</th>
+        <th>星期三</th>
+    </tr>
+    <tr>
+        <td>李强</td>
+        <td>张明</td>
+        <td>王平</td>
+    </tr>
+</table>
