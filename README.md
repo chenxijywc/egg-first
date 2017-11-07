@@ -14,7 +14,7 @@ http://egg-born.org/zh-cn/docs/tutorial/
 
 
 [点击跳转](#jump)
-
+[TOC]
 	[TOC]
 ## 0. 斜体和粗体{#top}
 1. *斜体*
