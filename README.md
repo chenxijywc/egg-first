@@ -142,3 +142,8 @@ Markdown
 [^1]:Markdown是一种纯文本标记语言
 [^2]:HyperText Markup Language 超文本标记语言
 [^Le]:开源笔记平台，支持Markdown和笔记直接发为博文
+
+### LaTeX 公式
+$$\sum_{i=1}^n a_i=0$$
+$$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$
+$$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
